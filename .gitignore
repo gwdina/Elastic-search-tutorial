@@ -5,7 +5,7 @@
 node_modules/
 
 # Ignore a specific file named 'config.env'
-config.env
+.env
 
 # Ignore all files in the 'build' directory
 build/
